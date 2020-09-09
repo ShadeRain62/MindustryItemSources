@@ -4,7 +4,7 @@ description:
   Thing you got the mod for
   '''
 health: 169
-alwaysUnlocked: true
+alwaysUnlocked: false
 requirements: [
   copper/1
 ]
